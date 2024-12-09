@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
    - **Clone using Git**:
      ```bash
-     git clone https://github.com/Zphyr00/pumpfun-comment-shill-bot.git
+     git clone https://github.com/Hayllande/pumpfun-comment-bot-for-pumpfun.git
      ```
 
    - **Download as ZIP**:
